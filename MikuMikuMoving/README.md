@@ -3,11 +3,11 @@ Oculus RiftでMiku Miku Dance(MMD)を楽しもう
 
 Oculus RiftでMikuMikuDanceを楽しむには？
 
-- ここではMMD互換アプリのMikuMikuMovingを使用します。
+- ここではMMD互換アプリのMikuMikuMoving(MMM)を使用します
 
-- Oculus Rift用に画面を2画面レンダリングする必要があるのでこれは Vireo を利用します。
+- Oculus Rift用に2画面分レンダリングを行う必要があるのでこれは Vireo を利用します
 
-- 頭の動きをMikuMikuMovingカメラの動きを拙作プラグイン(OculusCameraPlugin)で伝えます。
+- Oculus Riftの頭の動きをMMMへ反映させるためにプラグイン(OculusCameraPlugin)を使います
 
 
 - MikuMikuMoving
