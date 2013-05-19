@@ -89,7 +89,7 @@ namespace OculusCameraPlugin {
 			pOR->GetOrientation( &yaw, &pitch, &roll );
 
 			DxMath::Vector3^ pos   = gcnew DxMath::Vector3( 0, 0, 0 );
-			DxMath::Vector3^ angle = gcnew DxMath::Vector3( -yaw, pitch, roll );
+			DxMath::Vector3^ angle = gcnew DxMath::Vector3( -pitch, yaw, roll );
 
 
 			//ÉJÉÅÉâ
