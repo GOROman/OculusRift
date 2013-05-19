@@ -1,5 +1,5 @@
-Oculus RiftをMikuMikuMovingで楽しもう
-=====================================
+Oculus RiftでMiku Miku Dance(MMD)を楽しもう
+-------------------------------------------
 
 Oculus RiftでMikuMikuDanceを楽しむには？
 
@@ -11,8 +11,8 @@ Oculus RiftでMikuMikuDanceを楽しむには？
 
 
 - MikuMikuMoving
-https://sites.google.com/site/moggproject/mmm
+  https://sites.google.com/site/moggproject/mmm
 
 - Vireio
-http://vire.io/
+  http://vire.io/
 
