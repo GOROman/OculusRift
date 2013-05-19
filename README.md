@@ -1,4 +1,4 @@
-OculusRift
-==========
+OculusRiftでいろいろやる会
+==========================
 
-Oculus Rift
+- MikuMikuMoving/OCulusCameraPlugin - OculusRiftの頭の動きをカメラにリアルタイム反映させるプラグイン
