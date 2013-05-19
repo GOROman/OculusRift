@@ -82,6 +82,9 @@ namespace OculusCameraPlugin {
         {
 			float yaw, pitch, roll;
 			
+			// XV
+			pOR->Update();
+
 			// Žp¨‚ðŽæ“¾
 			pOR->GetOrientation( &yaw, &pitch, &roll );
 
